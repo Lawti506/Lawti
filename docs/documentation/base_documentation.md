@@ -16,3 +16,21 @@ First to document our journey, we need to prepare the project file by following 
 
 ### Adding Your Personal Information
 
+You are required to edit the index.md file to add your personal information.
+ 
+ * In that do include your a breif description about yourself, your interests if you want to include it.
+
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1FJPjW3X__cbyoYLgDT3KEZmXqKnMPEUC" alt="Profile Photo">
+ 
+ ### Uploading Images
+ 
+ 1. Upload the image to a cloud drive (e.g., Google Drive, OneDrive).
+ 2. Open the image, click Share, and set the link access to "Anyone with the link."
+
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1o1rPh_rJOWFuDfImJc24BkRYQZF5XXB4" alt="Profile Photo">
+
+ 3. Copy the shareable link.
+ 4. (Optional) If you need a direct image URL for embedding, convert the share link to a direct link or use an image-hosting service that provides direct URLs.
+5. Paste the link where needed (README, website, or form).
+
+
