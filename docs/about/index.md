@@ -10,14 +10,15 @@ title:Introduction
 
 <div class="profile-info" markdown>
 
-## Lawti 
+## Lawti Subba
 
 **Title / Role** — student
 
 > _"Add your favorite quote or personal tagline here."_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+"Build with curiosity, code with care, and shape tomorrow's tech for everyone's good."
+
+
 
 </div>
 
@@ -29,8 +30,8 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 | Year | Degree / Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 2024 – Present | High School | The Royal Academy|
+| 2020 – 2024 | Middle school | The Royal Academy |
 
 ## 🛠️ Skills
 
@@ -56,7 +57,9 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 ## 🌟 Interests
 
-- 🔬 **Research Area 1** — Brief description of your interest
+- 🔬 **Research Area 1** — I love discovering new places because each journey opens my mind to fresh perspectives, cultures, and unexpected stories. Exploring feeds my curiosity and inspires me to bring those experiences into the tech world, where I design solutions that connect people and places more meaningfully.
+
+
 - 🎨 **Creative Hobby** — Brief description
 - 🏃 **Sports / Activity** — Brief description
 - 📚 **Reading / Learning** — Brief description
