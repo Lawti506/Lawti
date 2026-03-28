@@ -1,31 +1,16 @@
 ---
-title: About Me.
+title:Introduction
 ---
 
 # About Me
 
-<!-- ============================================================
-     INSTRUCTIONS: Replace placeholder text below with your info.
-     To use a Google Drive profile photo, see the image section.
-     ============================================================ -->
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1wB5NrSya9_IseSyGZHs2Qn1Lgv3Djd_u&sz=w400" alt="Profile Photo">
 
-<div class="profile-section" markdown>
-
-<!-- ── Profile Photo ─────────────────────────────────────────
-     To embed a photo from Google Drive:
-     1. Upload your photo to Google Drive
-     2. Right-click → Share → "Anyone with the link"
-     3. Copy the FILE ID from the share link
-        (e.g., https://drive.google.com/file/d/FILE_ID/view)
-     4. Replace YOUR_FILE_ID below
-     ──────────────────────────────────────────────────────── -->
-
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1u1_Mebw0WiAgEy98OZ64ls9IW0oCBlAh&sz=w400" alt="Profile Photo">
 
 
 <div class="profile-info" markdown>
 
-## Your Name Here
+## Lawti 
 
 **Title / Role** — student
 
