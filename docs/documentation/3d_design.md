@@ -1,4 +1,13 @@
-# 3D Designing
+# **3-D Designing**
+
+3D designing is the creation of digital three-dimensional models that define the shape, materials, and appearance of objects or environments for visualization, simulation, manufacturing, or interactive use.
+
+# softwares available for 3-d design:
+* Onshape
+* Tinkercad
+* Blender
+* Fusion 360
+
 
 ## Onshape
 
