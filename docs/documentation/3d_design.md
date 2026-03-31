@@ -2,6 +2,7 @@
 
 3D designing is the creation of digital three-dimensional models that define the shape, materials, and appearance of objects or environments for visualization, simulation, manufacturing, or interactive use.
 
+
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1x9Fvy_jqObZ2wntPB3SueOVeUCS03R02" alt="Profile Photo">>*source:google*
 
 
@@ -13,7 +14,11 @@
 
 ## CAD (Computer-Aided Design)
 CAD (Computer-Aided Design) is the use of computer software to create, modify, analyze, and optimize precise technical drawings and 3D models of parts, assemblies, and systems for engineering, manufacturing, architecture, and construction.
+
+
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1voQjZ3XlWymevOBUo_0ECqDrr8M3Ff_7" alt="Profile Photo">>*source:google*
+
+
 ### Importance:
 * CAD (Computer-Aided Design) streamlines precise creation and modification of technical drawings and 3D models for engineering, manufacturing, architecture, and construction.
 * It reduces errors and development time by enabling easy revisions, simulations, and automated documentation.
@@ -29,6 +34,7 @@ Onshape is a cloud-based 3D CAD platform that enables users to design and manage
 I chose to use Onshape for my design software because it was convenient and user-friendly. Since it was my first time using the software, I watched a YouTube tutorial to guide me through the project. I decided to start with a simple design and opted to make a mug. Following the steps from the tutorial made the design process quite manageable.
 
 ## My Final Project
+
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=19Ovqs4X35AnBzdK3kjUyVP7xTlc5yEBv&sz=w400" alt="Profile Photo">
 
 # Process:
