@@ -36,4 +36,5 @@ I chose to use Onshape for my design software because it was convenient and user
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=19ME7DSLOJO0ri3AUb-6u1WhC6v3XcnYv" alt="Profile Photo">
 
 2) After signing up, we can start designing the project. You can click on the create.
+
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1_gcr0z9U13D8zVvcP1gtkS3oxX9C0Um1" alt="Profile Photo">
