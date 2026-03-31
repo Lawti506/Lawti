@@ -20,7 +20,7 @@ materials organized by topic.
 
 <div class="card-grid" markdown>
 
-<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1lJF64u4UmLNtrHdB5WT4IilpH4-UBSXz&sz=w800');" markdown>
+<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1RnXmtNVCaSWCRq-DOLPVRlL8G-LWC_UC&sz=w800');" markdown>
 
 ### 🚀 Expectations
 
