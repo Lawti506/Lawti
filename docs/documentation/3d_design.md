@@ -16,6 +16,7 @@
 CAD (Computer-Aided Design) is the use of computer software to create, modify, analyze, and optimize precise technical drawings and 3D models of parts, assemblies, and systems for engineering, manufacturing, architecture, and construction.
 
 
+
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1voQjZ3XlWymevOBUo_0ECqDrr8M3Ff_7" alt="Profile Photo">>*source:google*
 
 
