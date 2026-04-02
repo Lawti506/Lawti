@@ -13,6 +13,10 @@ Laser cutting is a precision manufacturing process that uses a focused laser bea
 # Introduction
 Inkscape is a free, open-source vector graphics editor that creates and edits scalable illustrations, logos, and diagrams using SVG as its native format. It offers intuitive tools like Bézier drawing, layers, and object grouping, plus a customizable workspace and helpful tutorials that make it user-friendly for beginners and professionals alike.
 
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1GDzRd1I56mneTtp6oEjMSqEOxcFycpLS&sz=w400" alt="Profile Photo">>*source:google*
 
+## Steps included to do Laser Cutting:
+1) First, you need to get a picture from any software (e.g., Pinterest).
+2) 
 
 

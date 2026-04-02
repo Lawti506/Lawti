@@ -28,7 +28,7 @@ CAD (Computer-Aided Design) is the use of computer software to create, modify, a
 * For students: provides hands-on industry tools, makes geometry and assembly concepts visual, allows quick iteration without physical materials, enables simulations, and offers free/educational software access for practical learning.
 
 # **MY Journey**:
-## Onshape
+## Onshape:
 
 Onshape is a cloud-based 3D CAD platform that enables users to design and manage projects from any device with internet access. Its accessibility eliminates the need for specific hardware, allowing for editing from anywhere. The platform supports real-time collaboration, enabling multiple users to work on the same design simultaneously, which speeds up project completion. With automatic version control, users can easily track revisions, and the limitless editing capabilities support rapid prototyping and design iterations. Overall, Onshape enhances flexibility and teamwork in the design process.
 
