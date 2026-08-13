@@ -30,5 +30,6 @@ Inkscape is a free, open-source vector graphics editor that creates and edits sc
 * For Cutting: Select your path and open the Fill and Stroke menu ($Ctrl+Shift+F$). Set the "Fill" to None and the "Stroke paint" to Red.
 * Hairline Thickness: In the "Stroke style" tab, set the width to 0.025 mm or 0.001 in. Most laser software recognizes this "hairline" thickness as a command to cut all the way through.
 * For Engraving: Set the "Fill" to Black and "Stroke paint" to None. The laser will treat solid black areas as a "raster" or etch.
+* 
 
 
