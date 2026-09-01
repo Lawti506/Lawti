@@ -30,6 +30,8 @@ Inkscape is a free, open-source vector graphics editor that creates and edits sc
 * For Cutting: Select your path and open the Fill and Stroke menu ($Ctrl+Shift+F$). Set the "Fill" to None and the "Stroke paint" to Red.
 * Hairline Thickness: In the "Stroke style" tab, set the width to 0.025 mm or 0.001 in. Most laser software recognizes this "hairline" thickness as a command to cut all the way through.
 * For Engraving: Set the "Fill" to Black and "Stroke paint" to None. The laser will treat solid black areas as a "raster" or etch.
-* 
+-Speed: 30
+Power: 11%
+* For Vector Cutting:To perform vector or deep cutting, start by creating a border around your design in any shape you like, and then adjust your laser settings so it cuts completely through the material. For beginners, a solid starting point—though ideal settings may vary based on your specific material—is to set the frequency to 6, the power to 100%, and keep the speed between 5 and 15.
 
 
