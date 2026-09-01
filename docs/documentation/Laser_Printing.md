@@ -47,3 +47,8 @@ Position the lens over your cutting area, run the auto-focus, and press the prin
 
 #### 😁This is how my first ever laser cutting design turned out:
 
+#### TADHA!!☑️
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=16-Z_Jx0jjYoYXGVVCOKDB8LIG_vPb3Si&sz=w400" alt="Profile Photo"> 
+
+
+ #### 🔺Always exercise caution while operating the machine and follow proper safety guidelines. Clean and clear the workspace thoroughly after each use to keep equipment in optimal condition.
