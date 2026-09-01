@@ -34,4 +34,11 @@ Inkscape is a free, open-source vector graphics editor that creates and edits sc
 Power: 11%
 * For Vector Cutting:To perform vector or deep cutting, start by creating a border around your design in any shape you like, and then adjust your laser settings so it cuts completely through the material. For beginners, a solid starting point—though ideal settings may vary based on your specific material—is to set the frequency to 6, the power to 100%, and keep the speed between 5 and 15.
 
+### Before You Begin:
+
+1. Before operating the machine, ensure you turn on the exhaust fan first.
+
+2. followed by the air compressor, and finally the machine itself.
+
+#### Following this exact sequence is essential to maintain proper ventilation, prevent overheating, and maximize the operational lifespan of the equipment.
 
