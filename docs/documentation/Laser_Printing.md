@@ -15,7 +15,7 @@ Inkscape is a free, open-source vector graphics editor that creates and edits sc
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1GDzRd1I56mneTtp6oEjMSqEOxcFycpLS&sz=w400" alt="Profile Photo">>*source:google*
 
-## Steps included to do Laser Cutting:
+##  📝Steps included to do Laser Cutting:
 1) First, you need to get a picture from any software (e.g., Pinterest).
  - for example, this is the first picture I got from pinterest to laser cut. <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1BS1DfT-WwhxceTcwx_rRktB-eUnz0cWy&sz=w400" alt="Profile Photo"> 
 >>* the picture should be in black and white.
@@ -34,11 +34,16 @@ Inkscape is a free, open-source vector graphics editor that creates and edits sc
 Power: 11%
 * For Vector Cutting:To perform vector or deep cutting, start by creating a border around your design in any shape you like, and then adjust your laser settings so it cuts completely through the material. For beginners, a solid starting point—though ideal settings may vary based on your specific material—is to set the frequency to 6, the power to 100%, and keep the speed between 5 and 15.
 
-### Before You Begin:
+### 📌Before You Begin:
 
 1. Before operating the machine, ensure you turn on the exhaust fan first.
 
 2. followed by the air compressor, and finally the machine itself.
 
-#### Following this exact sequence is essential to maintain proper ventilation, prevent overheating, and maximize the operational lifespan of the equipment.
+#### ✔️Following this exact sequence is essential to maintain proper ventilation, prevent overheating, and maximize the operational lifespan of the equipment.
+
+#### After all this: for ✂️ 
+Position the lens over your cutting area, run the auto-focus, and press the print button to start.
+
+#### 😁This is how my first ever laser cutting design turned out:
 
