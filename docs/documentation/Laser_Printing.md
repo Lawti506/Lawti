@@ -17,7 +17,9 @@ Inkscape is a free, open-source vector graphics editor that creates and edits sc
 
 ##  📝Steps included to do Laser Cutting:
 1) First, you need to get a picture from any software (e.g., Pinterest).
- - for example, this is the first picture I got from pinterest to laser cut. <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1BS1DfT-WwhxceTcwx_rRktB-eUnz0cWy&sz=w400" alt="Profile Photo"> 
+ - for example, this is the first picture I got from pinterest to laser cut. 
+ 
+ <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1BS1DfT-WwhxceTcwx_rRktB-eUnz0cWy&sz=w400" alt="Profile Photo"> 
 >>* the picture should be in black and white.
 
 2) Convert the Image to Vectors
