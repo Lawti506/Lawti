@@ -21,7 +21,7 @@ Inkscape is a free, open-source vector graphics editor that creates and edits sc
  
  <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1BS1DfT-WwhxceTcwx_rRktB-eUnz0cWy&sz=w400" alt="Profile Photo"> 
 
- 
+
 >>* the picture should be in black and white.
 
 2) Convert the Image to Vectors
